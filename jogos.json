@@ -1,0 +1,22 @@
+{
+    "jogos" : [
+        {
+            "id" : 1,
+            "nome" : "Metroid 1",
+            "imagem" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xe8.jpg",
+            "descricao" : "O primeiro Metroid."
+        },
+        {
+            "id" : 2,
+            "nome" : "Metroid 2",
+            "imagem" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wwx.jpg",
+            "descricao" : "O segundo Metroid."
+        },
+        {
+            "id" : 1,
+            "nome" : "Flicky",
+            "imagem" : "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sfr.jpg",
+            "descricao" : "O único Flicky."
+        }
+    ]
+}
